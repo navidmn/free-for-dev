@@ -1,0 +1,1 @@
+Adding motto.txt to cloud_dev01 branch
